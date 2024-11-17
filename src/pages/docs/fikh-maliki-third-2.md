@@ -181,3 +181,33 @@ description: al fikh almaliki matn Al3izziya
 ![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-13-3.png.webp  "page 3")
 ![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-13-4.png.webp  "page 4")
 ![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-13-5.png.webp  "page 5")
+
+
+### 7} cours 14 :  La prière en groupe (suite) - la prière du vendredi 
+
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-14-2.png.webp  "page 2")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-14-3.png.webp  "page 3")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-14-5.png.webp  "page 5")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-14-6.png.webp  "page 6")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-14-7.png.webp  "page 7")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-14-8.png.webp  "page 8")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-14-9.png.webp  "page 9")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-14-10.png.webp  "page 10")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-14-11.png.webp  "page 11")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-14-12.png.webp  "page 12")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-14-13.png.webp  "page 13")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-14-14.png.webp  "page 14")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-14-15.png.webp  "page 15")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-14-16.png.webp  "page 16")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-14-17.png.webp  "page 17")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-14-18.png.webp  "page 18")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-14-19.png.webp  "page 19")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-14-20.png.webp  "page 20")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-14-21.png.webp  "page 21")
+
+### dalil 14
+![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-14-0.png.webp  "page 0")
+![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-14-1.png.webp  "page 1")
+![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-14-2.png.webp  "page 2")
+![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-14-3.png.webp  "page 3")
+![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-14-4.png.webp  "page 4")
