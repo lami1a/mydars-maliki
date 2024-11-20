@@ -1,7 +1,7 @@
 ---
-title: ihmy share
-pageTitle: ikam and mydars institus shared documents - .
-description: Courses shared from ihkam from dz and mydars from fr .
+title: mydars share
+pageTitle: Mydars institut shared documents of fikh maliki .
+description: Courses shared from Mydars religious institut from fr .
 ---
 
 ## How to contribute 

@@ -211,3 +211,27 @@ description: al fikh almaliki matn Al3izziya
 ![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-14-2.png.webp  "page 2")
 ![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-14-3.png.webp  "page 3")
 ![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-14-4.png.webp  "page 4")
+
+### 8} cours 15 :  La réduction et le regroupement des prières
+
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-15-2.png.webp  "page 2")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-15-3.png.webp  "page 3")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-15-5.png.webp  "page 5")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-15-6.png.webp  "page 6")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-15-7.png.webp  "page 7")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-15-8.png.webp  "page 8")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-15-9.png.webp  "page 9")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-15-10.png.webp  "page 10")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-15-11.png.webp  "page 11")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-15-12.png.webp  "page 12")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-15-13.png.webp  "page 13")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-15-14.png.webp  "page 14")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-15-15.png.webp  "page 15")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-15-16.png.webp  "page 16")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-15-17.png.webp  "page 17")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-15-18.png.webp  "page 18")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-15-19.png.webp  "page 19")
+### dalil 145
+![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-15-0.png.webp  "page 0")
+![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-15-1.png.webp  "page 1")
+![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-15-2.png.webp  "page 2")
