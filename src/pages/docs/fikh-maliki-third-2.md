@@ -230,8 +230,94 @@ description: al fikh almaliki matn Al3izziya
 ![cours](/images/my/fikh-maliki/third-2/matn-al3izia-15-16.png.webp  "page 16")
 ![cours](/images/my/fikh-maliki/third-2/matn-al3izia-15-17.png.webp  "page 17")
 ![cours](/images/my/fikh-maliki/third-2/matn-al3izia-15-18.png.webp  "page 18")
-![cours](/images/my/fikh-maliki/third-2/matn-al3izia-15-19.png.webp  "page 19")
-### dalil 145
+
+### dalil 15
 ![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-15-0.png.webp  "page 0")
 ![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-15-1.png.webp  "page 1")
 ![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-15-2.png.webp  "page 2")
+
+### 9} cours 16 : Les prières qui sont Sunan appuyées
+
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-16-2.png.webp  "page 2")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-16-3.png.webp  "page 3")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-16-5.png.webp  "page 5")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-16-6.png.webp  "page 6")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-16-7.png.webp  "page 7")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-16-8.png.webp  "page 8")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-16-9.png.webp  "page 9")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-16-10.png.webp  "page 10")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-16-11.png.webp  "page 11")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-16-12.png.webp  "page 12")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-16-13.png.webp  "page 13")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-16-14.png.webp  "page 14")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-16-15.png.webp  "page 15")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-16-16.png.webp  "page 16")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-16-17.png.webp  "page 17")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-16-18.png.webp  "page 18")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-16-19.png.webp  "page 19")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-16-20.png.webp  "page 20")
+
+### dalil 16
+![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-16-0.png.webp  "page 0")
+![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-16-1.png.webp  "page 1")
+![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-16-2.png.webp  "page 2")
+![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-16-3.png.webp  "page 3")
+![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-16-4.png.webp  "page 4")
+![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-16-5.png.webp  "page 5")
+
+
+### 10} cours 17 : Les prières recommandés et la prière mortuaire
+
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-17-2.png.webp  "page 2")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-17-3.png.webp  "page 3")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-17-5.png.webp  "page 5")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-17-6.png.webp  "page 6")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-17-7.png.webp  "page 7")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-17-8.png.webp  "page 8")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-17-9.png.webp  "page 9")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-17-10.png.webp  "page 10")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-17-11.png.webp  "page 11")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-17-12.png.webp  "page 12")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-17-13.png.webp  "page 13")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-17-14.png.webp  "page 14")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-17-15.png.webp  "page 15")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-17-16.png.webp  "page 16")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-17-17.png.webp  "page 17")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-17-18.png.webp  "page 18")
+
+### dalil 17
+![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-17-0.png.webp  "page 0")
+![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-17-1.png.webp  "page 1")
+![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-17-2.png.webp  "page 2")
+![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-17-3.png.webp  "page 3")
+![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-17-4.png.webp  "page 4")
+![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-17-5.png.webp  "page 5")
+![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-17-6.png.webp  "page 6")
+
+
+### 11} cours 18 :  Zakat 1 principes – Zakat de l’or l’argent les monnaies et les bestiaux
+
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-18-2.png.webp  "page 2")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-18-3.png.webp  "page 3")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-18-5.png.webp  "page 5")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-18-6.png.webp  "page 6")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-18-7.png.webp  "page 7")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-18-8.png.webp  "page 8")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-18-9.png.webp  "page 9")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-18-10.png.webp  "page 10")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-18-11.png.webp  "page 11")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-18-12.png.webp  "page 12")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-18-13.png.webp  "page 13")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-18-14.png.webp  "page 14")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-18-15.png.webp  "page 15")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-18-16.png.webp  "page 16")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-18-17.png.webp  "page 17")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-18-18.png.webp  "page 18")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-18-19.png.webp  "page 19")
+
+### dalil 18
+![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-18-0.png.webp  "page 0")
+![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-18-1.png.webp  "page 1")
+![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-18-2.png.webp  "page 2")
+![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-18-3.png.webp  "page 3")
+![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-18-4.png.webp  "page 4")

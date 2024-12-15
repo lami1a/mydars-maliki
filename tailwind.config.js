@@ -21,7 +21,9 @@ module.exports = {
       '9xl': ['8rem', { lineHeight: '1' }],
     },
     extend: {
+      backgroundColor:{
 
+      },
       fontFamily: {
         sans: ['Inter', 'Graphic', 'Comfortaa', ...defaultTheme.fontFamily.sans],
         nun: ['Nunito',  ...defaultTheme.fontFamily.sans],

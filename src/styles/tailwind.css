@@ -8,9 +8,13 @@
   [inert] ::-webkit-scrollbar {
     display: none;
   }
+  body {
+    background-color: bisque;
+
+  }
   * a {
     width: 13px;
-    color:aqua;
+    color:cornflowerblue;
   text-decoration: none;
 }
 }
