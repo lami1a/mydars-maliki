@@ -4,10 +4,8 @@
     "display": "browser",
     "scope": "/",
     "start_url": "/",
-    "name": "ihmy-share",
-    "short_name": "ihmy-share0",
-    "description": "document sharing for instutut ",
-    "icons": {
-        "name": "liismLogo.svg"
-    }
+    "name": "mydars-share",
+    "short_name": "mysars-shares",
+    "description": "document sharing for instituts ",
+ 
 }

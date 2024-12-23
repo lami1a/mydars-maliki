@@ -321,3 +321,24 @@ description: al fikh almaliki matn Al3izziya
 ![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-18-2.png.webp  "page 2")
 ![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-18-3.png.webp  "page 3")
 ![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-18-4.png.webp  "page 4")
+
+
+### 12} cours 19 : Zakat 2 Zakat des récoltes et des marchandises – les bénéficiaires
+
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-19-2.png.webp  "page 2")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-19-3.png.webp  "page 3")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-19-5.png.webp  "page 5")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-19-6.png.webp  "page 6")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-19-7.png.webp  "page 7")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-19-8.png.webp  "page 8")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-19-9.png.webp  "page 9")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-19-10.png.webp  "page 10")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-19-11.png.webp  "page 11")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-19-12.png.webp  "page 12")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-19-13.png.webp  "page 13")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-19-14.png.webp  "page 14")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-19-15.png.webp  "page 15")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-19-16.png.webp  "page 16")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-19-17.png.webp  "page 17")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-19-18.png.webp  "page 18")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-19-19.png.webp  "page 19")
