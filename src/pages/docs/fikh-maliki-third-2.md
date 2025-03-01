@@ -547,3 +547,33 @@ description: al fikh almaliki matn Al3izziya
 ![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-25-3.png.webp  "page 3")
 ![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-25-4.png.webp  "page 4")
 ![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-25-5.png.webp  "page 5")
+
+
+### 19} cours 26 : Les serrements et les Nadhr
+
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-26-2.png.webp  "page 2")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-26-3.png.webp  "page 3")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-26-5.png.webp  "page 5")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-26-6.png.webp  "page 6")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-26-7.png.webp  "page 7")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-26-8.png.webp  "page 8")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-26-9.png.webp  "page 9")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-26-10.png.webp  "page 10")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-26-11.png.webp  "page 11")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-26-12.png.webp  "page 12")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-26-13.png.webp  "page 13")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-26-14.png.webp  "page 14")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-26-15.png.webp  "page 15")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-26-16.png.webp  "page 16")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-26-17.png.webp  "page 17")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-26-18.png.webp  "page 18")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-26-19.png.webp  "page 19")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-26-20.png.webp  "page 20")
+![cours](/images/my/fikh-maliki/third-2/matn-al3izia-26-21.png.webp  "page 21")
+### dalil 26
+![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-26-0.png.webp  "page 0")
+![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-26-1.png.webp  "page 1")
+![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-26-2.png.webp  "page 2")
+![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-26-3.png.webp  "page 3")
+![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-26-4.png.webp  "page 4")
+![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-26-5.png.webp  "page 5")
