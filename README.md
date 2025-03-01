@@ -1,6 +1,6 @@
-# ihmy-share
+# mydars fikh maliki
 
-ihmy-share is a usefull document sharing  front end . 
+this tool is a usefull document sharing front end for this cours 'two yers in mydars institut'. 
 
 ## Getting started
 
