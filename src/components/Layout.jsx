@@ -18,10 +18,10 @@ import { ThemeSelector } from '@/components/ThemeSelector'
   )
 }*/
 
-const APP_NAME = "ihmy-share";
-const APP_DEFAULT_TITLE = "ihmy-share-doc";
-const APP_TITLE_TEMPLATE = "%s -  ihmy-share App";
-const APP_DESCRIPTION = "sharing doc for students";
+const APP_NAME = "Mydars shares cours";
+const APP_DEFAULT_TITLE = "Mydars Fikh Maliki";
+const APP_TITLE_TEMPLATE = "%s -  Mydars Fikh Maliki";
+const APP_DESCRIPTION = "sharing doc for talaba";
 
 
 export const metadata = {
@@ -95,9 +95,9 @@ function Header({ navigation }) {
           <Logo className="hidden h-9 w-auto fill-slate-700 dark:fill-sky-100 lg:block" />
         </Link>
       </div>
-      <div className="-my-5 mr-6 sm:mr-8 md:mr-0">
+      {/*<div className="-my-5 mr-6 sm:mr-8 md:mr-0">
         <Search />
-      </div>
+      </div>*/}
       <div className="relative flex basis-0 justify-end gap-6 sm:gap-8 md:flex-grow">
         <ThemeSelector className="relative z-10" />
       </div>
