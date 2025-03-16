@@ -2,7 +2,7 @@ import { Logo } from '@/components/Logo';
 import { MobileNavigation } from '@/components/MobileNavigation';
 import { Navigation } from '@/components/Navigation';
 import { Prose } from '@/components/Prose';
-import { Search } from '@/components/Search';
+
 import navigation from '@/components/constants';
 import clsx from 'clsx';
 import Link from 'next/link';
@@ -95,17 +95,11 @@ function Header({ navigation }) {
           <Logo className="hidden h-9 w-auto fill-slate-700 dark:fill-sky-100 lg:block" />
         </Link>
       </div>
-      {/*<div className="-my-5 mr-6 sm:mr-8 md:mr-0">
-        <Search />
-      </div>*/}
+   
       <div className="relative flex basis-0 justify-end gap-6 sm:gap-8 md:flex-grow">
         <ThemeSelector className="relative z-10" />
       </div>
-      {/* 
-        <Link href="https://github.com/liismaiil/institut-ihmy-share" className="group" aria-label="GitHub">
-          <GitHubIcon className="h-6 w-6 fill-slate-400 group-hover:fill-slate-500 dark:group-hover:fill-slate-300" />
-        </Link>
-      */}
+  
     </header>
   )
 }
