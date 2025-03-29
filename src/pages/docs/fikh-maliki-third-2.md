@@ -653,7 +653,7 @@ description: al fikh almaliki matn Al3izziya
 ![cours](/images/my/fikh-maliki/third-2/matn-al3izia-29-19.png.webp  "page 19")
 ![cours](/images/my/fikh-maliki/third-2/matn-al3izia-29-20.png.webp  "page 20")
 ![cours](/images/my/fikh-maliki/third-2/matn-al3izia-29-21.png.webp  "page 21")
-### dalil 28
+### dalil 29
 ![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-29-0.png.webp  "page 0")
 ![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-29-1.png.webp  "page 1")
 ![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-29-2.png.webp  "page 2")
@@ -684,7 +684,7 @@ description: al fikh almaliki matn Al3izziya
 ![cours](/images/my/fikh-maliki/third-2/matn-al3izia-30-20.png.webp  "page 20")
 ![cours](/images/my/fikh-maliki/third-2/matn-al3izia-30-21.png.webp  "page 21")
 ![cours](/images/my/fikh-maliki/third-2/matn-al3izia-30-22.png.webp  "page 22")
-### dalil 28
+### dalil 30
 ![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-30-0.png.webp  "page 0")
 ![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-30-1.png.webp  "page 1")
 ![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-30-2.png.webp  "page 2")
