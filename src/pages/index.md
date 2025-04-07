@@ -11,6 +11,8 @@ description: Courses shared from Mydars religious institut from fr .
 > * [fikh-maliki Al 3iziya](./docs/fikh-maliki-third "fikh-maliki Al 3iziya")
   ### 2025
 > * [fikh-maliki Al 3iziya (suite)](./docs/fikh-maliki-third-2 "fikh-maliki Al 3iziya (suite)")
-
 ## How to contribute 
 > * [how to contribute](./docs/how-to-contribute "How to contribute")
+ ## Contrat & Article relatifs aux prises de parts 
+> * [Associés](./docs/sas "statuts, articles des associés")
+ 
