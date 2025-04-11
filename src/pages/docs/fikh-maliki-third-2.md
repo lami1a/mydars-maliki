@@ -39,8 +39,6 @@ description: al fikh almaliki matn Al3izziya
 ![cours](/images/my/fikh-maliki/third-2/matn-al3izia-9-1-2.png.webp  "page 2")
 ![cours](/images/my/fikh-maliki/third-2/matn-al3izia-9-1-3.png.webp  "page 3")
 ![cours](/images/my/fikh-maliki/third-2/matn-al3izia-9-1-5.png.webp  "page 5")
-![cours](/images/my/fikh-maliki/third-2/matn-al3izia-9-1-6.png.webp  "page 6")
-![cours](/images/my/fikh-maliki/third-2/matn-al3izia-9-1-7.png.webp  "page 7")
 ![cours](/images/my/fikh-maliki/third-2/matn-al3izia-9-1-8.png.webp  "page 8")
 ![cours](/images/my/fikh-maliki/third-2/matn-al3izia-9-1-9.png.webp  "page 9")
 ![cours](/images/my/fikh-maliki/third-2/matn-al3izia-9-1-10.png.webp  "page 10")
