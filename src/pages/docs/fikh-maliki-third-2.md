@@ -34,7 +34,7 @@ description: al fikh almaliki matn Al3izziya
 ![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-9-4.png.webp  "page 4")
 
 ### 2 } cours 9 :  Le rattrapage des prières 
-#### Les moments des prières Nafila     
+ *Les moments des prières Nafila*     
 
 ![cours](/images/my/fikh-maliki/third-2/matn-al3izia-9-1-2.png.webp  "page 2")
 ![cours](/images/my/fikh-maliki/third-2/matn-al3izia-9-1-3.png.webp  "page 3")
@@ -60,7 +60,7 @@ description: al fikh almaliki matn Al3izziya
 ![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-9-1-2.png.webp  "page 2")
 
 ### 3 } cours 10 :   Adhen - Ikama
-####   conditions de validité de la prière   
+*conditions de validité de la prière*   
 
 ![cours](/images/my/fikh-maliki/third-2/matn-al3izia-10-2.png.webp  "page 2")
 ![cours](/images/my/fikh-maliki/third-2/matn-al3izia-10-3.png.webp  "page 3")
@@ -122,7 +122,8 @@ description: al fikh almaliki matn Al3izziya
 ![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-11-6.png.webp  "page 6")
 ![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-11-7.png.webp  "page 7")
 
-### 5} cours 12 : Actes recommandés, détestables et annulatifs de la prière   
+### 5} cours 12 : Actes recommandés, 
+*détestables et annulatifs de la prière*   
 
 ![cours](/images/my/fikh-maliki/third-2/matn-al3izia-12-2.png.webp  "page 2")
 ![cours](/images/my/fikh-maliki/third-2/matn-al3izia-12-3.png.webp  "page 3")
@@ -153,7 +154,8 @@ description: al fikh almaliki matn Al3izziya
 ![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-12-6.png.webp  "page 6")
 
 
-### 6} cours 13 : Prosternations de distraction - La prière en groupe   
+### 6} cours 13 : Prosternations de distraction 
+*- La prière en groupe*   
 
 ![cours](/images/my/fikh-maliki/third-2/matn-al3izia-13-2.png.webp  "page 2")
 ![cours](/images/my/fikh-maliki/third-2/matn-al3izia-13-3.png.webp  "page 3")
@@ -181,7 +183,8 @@ description: al fikh almaliki matn Al3izziya
 ![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-13-5.png.webp  "page 5")
 
 
-### 7} cours 14 :  La prière en groupe (suite) - la prière du vendredi 
+### 7} cours 14 :  La prière en groupe (suite) 
+*- la prière du vendredi* 
 
 ![cours](/images/my/fikh-maliki/third-2/matn-al3izia-14-2.png.webp  "page 2")
 ![cours](/images/my/fikh-maliki/third-2/matn-al3izia-14-3.png.webp  "page 3")
@@ -293,7 +296,8 @@ description: al fikh almaliki matn Al3izziya
 ![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-17-6.png.webp  "page 6")
 
 
-### 11} cours 18 :  Zakat 1 principes – Zakat de l’or l’argent les monnaies et les bestiaux
+### 11} cours 18 :  Zakat 1 principes 
+*– Zakat de l’or l’argent les monnaies et les bestiaux*
 
 ![cours](/images/my/fikh-maliki/third-2/matn-al3izia-18-2.png.webp  "page 2")
 ![cours](/images/my/fikh-maliki/third-2/matn-al3izia-18-3.png.webp  "page 3")
@@ -321,7 +325,8 @@ description: al fikh almaliki matn Al3izziya
 ![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-18-4.png.webp  "page 4")
 
 
-### 12} cours 19 : Zakat 2 Zakat des récoltes et des marchandises – les bénéficiaires
+### 12} cours 19 : Zakat 2 Zakat des récoltes 
+*des marchandises – les bénéficiaires*
 
 ![cours](/images/my/fikh-maliki/third-2/matn-al3izia-19-2.png.webp  "page 2")
 ![cours](/images/my/fikh-maliki/third-2/matn-al3izia-19-3.png.webp  "page 3")
