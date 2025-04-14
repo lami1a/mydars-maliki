@@ -110,7 +110,6 @@ description: al fikh almaliki matn Al3izziya
 ![cours](/images/my/fikh-maliki/third-2/matn-al3izia-11-16.png.webp  "page 16")
 ![cours](/images/my/fikh-maliki/third-2/matn-al3izia-11-17.png.webp  "page 17")
 ![cours](/images/my/fikh-maliki/third-2/matn-al3izia-11-18.png.webp  "page 18")
-![cours](/images/my/fikh-maliki/third-2/matn-al3izia-11-19.png.webp  "page 19")
 
 ### dalil 11
 ![cours](/images/my/fikh-maliki/third-2/dalil-al3izia-11-0.png.webp  "page 0")
